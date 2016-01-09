@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: f10a9e8cc7874b2429d95412977099c5
+SubstanceImporter:
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 10
+    name: character
+    prototypeName: character
+    shaderName: Bumped Specular
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 8
+        scalar[1]: 8
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 9237
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Team
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Jeans_Color
+      value:
+        scalar[0]: .501960814
+        scalar[1]: .501960814
+        scalar[2]: .501960814
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Jacket_Color
+      value:
+        scalar[0]: .239215687
+        scalar[1]: .180392161
+        scalar[2]: .188235298
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Shirt_Color
+      value:
+        scalar[0]: .870588243
+        scalar[1]: .87843138
+        scalar[2]: .87843138
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Skin_Color
+      value:
+        scalar[0]: .800000012
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Eye_Color
+      value:
+        scalar[0]: .180392161
+        scalar[1]: .34117648
+        scalar[2]: .290196091
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Scars
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Bruises
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Jeans_Ripping
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Jeans_Ripping_Nb
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Cap_Color
+      value:
+        scalar[0]: .278431386
+        scalar[1]: .56078434
+        scalar[2]: .568627477
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Shoes_Color
+      value:
+        scalar[0]: .349019617
+        scalar[1]: .349019617
+        scalar[2]: .349019617
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Jacket_Pattern
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Jeans_Ripping_Size
+      value:
+        scalar[0]: .5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateAllOutputs: 0
+      animationUpdateRate: 42
+    materialProperties:
+      serializedVersion: 2
+      texEnvs:
+        data:
+          first:
+            name: _MainTex
+          second:
+            texture: {instanceID: 0}
+            scale: {x: 1, y: 1}
+            offset: {x: 0, y: 0}
+        data:
+          first:
+            name: _BumpMap
+          second:
+            texture: {instanceID: 0}
+            scale: {x: 1, y: 1}
+            offset: {x: 0, y: 0}
+      floats:
+        data:
+          first:
+            name: _Shininess
+          second: .164990678
+      colors:
+        data:
+          first:
+            name: _Color
+          second: {r: 1, g: 1, b: 1, a: 1}
+        data:
+          first:
+            name: _SpecColor
+          second: {r: .156716406, g: .156716406, b: .156716406, a: 1}
+    textureParameters:
+    - name: character_Normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: character_Output
+      alphaSource: 5
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadingBehavior: 1
+  deletedPrototypes: []
+  userData: 

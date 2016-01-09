@@ -1,0 +1,111 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/WindowsStandalonePlayer/Managed/UnityEngine.dll"
+-r:Assets/Plugins/Photon3Unity3D.dll
+-define:UNITY_STANDALONE_WIN
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_GENERICS
+-define:ENABLE_SUBSTANCE
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_4_3_4
+-define:UNITY_4_3
+Assets/FXManager.cs
+Assets/Health.cs
+Assets/NetworkCharacter.cs
+Assets/NetworkManager.cs
+Assets/PlayerShooting.cs
+Assets/PlayerStuff/Scripts/PlayerMovement.cs
+Assets/SelfDestruct.cs
+Assets/SpawnSpot.cs
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/CustomTypes.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/Enums.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/Extensions.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/FriendInfo.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/PhotonHandler.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/PhotonLagSimulationGui.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/PhotonPlayer.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/PhotonStatsGui.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/PingCloudRegions.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/RPC.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/Room.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/RoomInfo.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/RpcIndexComponent.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/ServerSettings.cs"
+"Assets/_IMPORTED/Photon Unity Networking/Plugins/PhotonNetwork/SocketUdp.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/ConnectAndJoinRandom.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/InRoomChat.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/InRoomRoundTimer.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/InputToEvent.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/ManualPhotonViewAllocator.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/MoveByKeys.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/OnAwakeUsePhotonView.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/OnClickDestroy.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/OnClickInstantiate.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/OnClickLoadSomething.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/OnJoinedInstantiate.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/OnStartDelete.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/PickupItem.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/PickupItemSimple.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/PickupItemSyncer.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/PointedAtGameObjectInfo.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/PunPlayerScores.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/PunTeams.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/QuitOnEscapeOrBack.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/ServerTime.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/ShowInfoOfPlayer.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/SmoothSyncMovement.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/SupportLogger.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/TestDontDestroyOnLoad.cs"
+"Assets/_IMPORTED/Photon Unity Networking/UtilityScripts/TimeKeeper.cs"
+Assets/_IMPORTED/Reflection/MirrorReflection.cs
+Assets/_IMPORTED/Scripts/Customize.cs
+Assets/_IMPORTED/Scripts/Idle.cs
+"Assets/_IMPORTED/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/BlurEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/ColorCorrectionEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/ContrastStretchEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/GlowEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/GrayscaleEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/ImageEffectBase.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/ImageEffects.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/MotionBlur.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/NoiseEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/SSAOEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/TwirlEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs"
+"Assets/_IMPORTED/Standard Assets/Scripts/General Scripts/ActivateTrigger.cs"
+"Assets/_IMPORTED/Standard Assets/Scripts/Utility Scripts/CombineChildren.cs"
+"Assets/_IMPORTED/Standard Assets/Scripts/Utility Scripts/MeshCombineUtility.cs"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"
